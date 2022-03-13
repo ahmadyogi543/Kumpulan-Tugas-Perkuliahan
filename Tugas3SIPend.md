@@ -38,11 +38,11 @@ Berikut beberapa contoh bagaimana sebuah organisasi menerapkan big data untuk me
 Banyak terdapat tantangan dalam penggunaan Big Data seperti misalnya menangani data yang begitu banyak dan sangat bervariasi, memproses data seperti menyimpan data, menganalisisnya dan masih banyak yang lainnya.
 Beberapa tantangan itu antara lain:
 
--   Kurangnya profesional
+-   Kurangnya tenaga kerja profesional 
     Untuk menjalankan teknologi modern seperti Big Data, sebuah perusahaan memerlukan seorang yang benar-benar ahli dalam bidang ini. Permasalahannya adalah hanya ada sedikit yang benar-benar ahli pada bidang ini dikarenakan teknologi untuk Big Data cepat sekali berkembang.
--   Perkembangan Data
+-   Perkembangan Data 
     Salah satu permasalahan yang dihadapi pada Big Data adalah perkembangan data yang begitu masif, berkembang secara eksponensial. Semakin berkembangnya data, semakin sulit pula dalam menanganinya, apalagi dalam menangani data yang tidak terstruktur (foto, video) yang notabene berukuran cukup besar sehingga akan dengan cepat menghabiskan storage dengan cepat.
--   Keamanan Data
+-   Keamanan Data 
     Dengan begitu banyaknya data yang ada, mengamankan data tersebut adalah sesuatu hal yang sangat perlu diperhatikan. Beberapa perusahaan memperkerjakan cybersecurity untuk mengamankan data mereka.
 
 Sumber tulisan:
