@@ -212,7 +212,7 @@ ES6 memberikan sebuah fitur baru yakni operator _spread_ dan _rest_, ditulis men
 
 ### Spread
 
-Operator _spread_ memungkinkan sebuah data yang dapat diiterasi (disebut _iterable_) seperti _array_ atau _string_ tiap-tiap elemennya dipecah kemudian disebarkan menjadi tiap-tiap parameter pada sebuahh _function_.
+Operator _spread_ memungkinkan sebuah data yang dapat diiterasi (disebut _iterable_) seperti _array_ atau _string_ tiap-tiap elemennya dipecah kemudian disebarkan menjadi tiap-tiap parameter pada sebuah _function_.
 
 Contoh :
 
