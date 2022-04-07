@@ -14,7 +14,7 @@ Nah, jika kita perhatikan dengan seksama, kira-kira darimana asal suara dari mus
 
 **Audio digital** adalah teknologi yang digunakan untuk merekam, menyimpan, memanipulasi, menghasilkan, dan mereproduksi suara dengan menggunakan sinyal audio yang telah dikodekan dalam bentuk digital.
 
-## Jenis Audio Digital
+## Bentuk Gelombang Suara Audio Digital
 
 Suara pada audio digital dihasilkan dengan menggabungkan 3 bentuk gelombang suara dasar yang terdapat pada audio digital sebagai berikut.
 
