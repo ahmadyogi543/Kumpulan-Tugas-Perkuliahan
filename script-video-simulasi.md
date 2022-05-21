@@ -14,7 +14,7 @@ Studi Kasus : Simulasi untuk Optimasi Sistem Antrian Poli Umum Rawat Jalan Rumah
 
 Layanan merupakan indikator utama dalam keberhasilan usaha. Kualitas layanan industri jasa merupakan faktor utama yang harus diperhatikan dalam mempertahankan keberadaan dan persaingan industri jasa, tidak terkecuali industri jasa rumah sakit.
 
-Rumah sakit merupakan industri jasa yang perkembangannya cukup pesat di Indonesia. Dirjen Bina Upaya Kesehatan Kemenkes Akmal Taher pada tahun 2014 menyatakan bahwapertumbuhan industri jasa rumah sakit swasta adalah 5-10%.
+Rumah sakit merupakan industri jasa yang perkembangannya cukup pesat di Indonesia. Dirjen Bina Upaya Kesehatan Kemenkes Akmal Taher pada tahun 2014 menyatakan bahwa pertumbuhan industri jasa rumah sakit swasta adalah 5-10%.
 
 Kualitas layanan di rumah sakit dapat mencakup berbagai aspek, seperti :
 
