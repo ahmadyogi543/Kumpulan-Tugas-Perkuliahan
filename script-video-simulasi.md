@@ -32,6 +32,7 @@ Berdasarkan deskripsi di atas, agar dapat mengoptimalkan proses antrian yang ter
 Adapun rumah sakit yang akan dijadikan sebagai sumber data untuk simulasi ini adalah Rumah Sakit X (RSX). Rumah Sakit X merupakan salah satu rumah sakit ternama di kota Depok yang memiliki 21 poli yang aktif melayani pasien setiap hari.
 
 Simulasi dilakukan di poli umum karena poli ini memiliki tingkat kedatangan yang konstan setiap harinya dengan rata-rata kedatangan dan pasien yang terlayani setiap bulannya adalah 335 pasien. Maka dari itu perlu dilakukan simulasi untuk mengoptimalkan proses antrian pada poli umum di RSX.
+
 ![Tabel 1](tabel1.png)
 
 ## Tujuan Pemodelan dan Simulasi terhadap Studi Kasus
